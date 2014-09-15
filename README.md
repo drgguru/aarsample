@@ -1,0 +1,4 @@
+aarsample
+=========
+
+sample aar repository
